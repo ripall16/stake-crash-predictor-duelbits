@@ -1,4 +1,4 @@
 requests
-pycrytpodome
+pycryptodome
 tensorflow
 sklearn
